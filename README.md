@@ -4,6 +4,17 @@ I am Mehak Tufail, and i do content on design and development. I really enjoyed 
 
 Skills:  REACT / JS / HTML / CSS
 
+- 🔭 I’m currently working on My Own company 
+- 🌱 I’m currently learning MS(CS) 
+- 👯 I’m looking to collaborate on Researcher 
+- 🤔 I’m looking for help with code development 
+- 💬 Ask me about Computer Science 
+- 📫 How to reach me: about.me/MehakTufail/ 
+
+
+
+
+
 - 🔭 I’m currently working on this page. 
 
 
