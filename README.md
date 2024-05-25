@@ -1,5 +1,7 @@
 ### Hi there 👋, Mehak Tufail
 #### Design and development
+![Design and development](https://github.com/MehakTufail1/MehakTufail1/blob/main/banner%20mehak.jpg)
+
 I am Mehak Tufail, and i do content on design and development. I really enjoyed learning languages and framework like Python, React, as well as work in WordPress.
 
 Skills:  REACT / JS / HTML / CSS
@@ -12,10 +14,9 @@ Skills:  REACT / JS / HTML / CSS
 - 📫 How to reach me: about.me/MehakTufail/ 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mehak.tufail)  
 
 
-
-- 🔭 I’m currently working on this page. 
 
 
 
