@@ -1,7 +1,9 @@
 
 ![Design and development](https://github.com/MehakTufail1/MehakTufail1/blob/main/banner%20mehak.jpg)
 #  Mehak Tufail
-I am Mehak Tufail, and i do content on design and development. I really enjoyed learning languages and framework like Python, React, as well as work in WordPress.[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehakTufail1)](https://github.com/anuraghazra/github-readme-stats)
+I am Mehak Tufail, and i do content on design and development. I really enjoyed learning languages and framework like Python, React, as well as work in WordPress.
+
+(https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehakTufail1&show_icons=true&count_private=true)  
 
